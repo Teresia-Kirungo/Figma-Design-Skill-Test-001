@@ -1,4 +1,4 @@
-# Figma-Design-Skill-Test
+# Figma-Design-Skill-Test-001
 Greetings Team ! :smiley:
 We trust that this message finds you well! We are pleased to invite you to partcipate in this Mini-design challenge.</br>
 
