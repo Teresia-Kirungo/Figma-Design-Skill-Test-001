@@ -11,6 +11,7 @@ We trust that this message finds you well! We are pleased to invite you to partc
 
 ## Instructions Set
 
+Feel free to view other pages of the site from [Hogsgood](http://cartogram.ca/#!/work/166)<br/>
 1. Create an account on [Figma](https://www.figma.com/).
 2. Design the image below; <br/>
 #### NB: Image to be Designed
