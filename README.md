@@ -12,15 +12,28 @@ We trust that this message finds you well! We are pleased to invite you to partc
 ## Instructions Set
 
 1. Create an account on [Figma](https://www.figma.com/).
-2. Design the image below; 
-#### NB: Color code will be provided in hex
+2. Design the image below; <br/>
+#### NB: Image to be Designed
 
+![Image Provided](https://github.com/CodeVilla-Organisation/Figma-Design-Skill-Test/blob/master/background.png)
+
+#### NB: Image  hex color code is provided below;
+
+```
+* Left section background color #0D2F4A
+* Middle section background color #F1F0EB
+* Middle section text color #21354C
+* Horizontal and Vertical line color #51575E
+
+color code in hex
+```
+#### NB: For color codes not provided click *Generate* on [Coolors](https://coolors.co//), to upload and get the hex code of the UI page
 3. Create a new feature branch, the feature branch should bear your name.<br?> 
     * *eg, If I create a new branch for participant Alex, the branch name will be Alex* 
 4. In the ReadME of your feature branch upload your Figma UI design in comparison to the Webpage provided
 5. Create a PR(Pull Request) asking your fellow participants to review your design. Once it has been reviewed, submit your UI Design for approval by the organisation.
 6. Only after review and appoval should you proceed to build out the page
-7. Using STRICTLY  HTML and CSS to build out the page UI
+7. Using *STRICTLY  HTML and CSS* to build out the page UI
 8. Make your web page responsinsive
 9. Create a [Netlify](https://app.netlify.com/) account and Host it on there.
 10. Update your ReadME.md to bear your Netlify link for approval!
