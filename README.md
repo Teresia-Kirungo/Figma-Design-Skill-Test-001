@@ -38,12 +38,12 @@ color code in hex
 9. Create a [Netlify](https://app.netlify.com/) account and Host it on there.
 10. Update your ReadME.md to bear your Netlify link for approval!
 
-#### Points will be awarded to anyone that :
+#### DO NOT MERGE TO MASTER! Points will be awarded to anyone that :
 
 * Add's a unique favicon to the page
 * Submits page before 25 July 2020
 
-#### HAPPY DESIGNING ! :sparkles: :fire:
+#### HAPPY DESIGN WEEK AHEAD ! :sparkles: :fire:
 
 
 
