@@ -46,5 +46,11 @@ color code in hex
 
 #### HAPPY DESIGN WEEK AHEAD ! :sparkles: :fire:
 
+# SOLVED:
+![Image Provided](https://github.com/Teresia-Kirungo/Figma-Design-Skill-Test-001/blob/Terry-design/Terry-MacBook%20Pro%20-%201.png)
+
+* Link to My Figma Design [Figma](https://www.figma.com/proto/04Aaf65XaXlj5FJITzT1up/Foodliner?node-id=1%3A6&scaling=scale-down).
+* Check out the [Figma-UI-Design-Challenge](https://www.figma.com/file/04Aaf65XaXlj5FJITzT1up/Figma-UI-Design-Challenge-Foodliner) here!
+
 
 
